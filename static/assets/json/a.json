@@ -207,9 +207,9 @@
   },
   {
     "name": "Spotify",
+    "link": "https://open.spotify.com",
     "image": "/assets/media/icons/spotify.webp",
-    "categories": ["all", "media"],
-    "error": true
+    "categories": ["all", "media"]
   },
   {
     "name": "Telegram",
@@ -303,12 +303,7 @@
     "image": "/assets/media/icons/youtube.webp",
     "categories": ["all", "social", "stream", "media"]
   },
-  {
-    "name": "Whatsapp",
-    "image": "/assets/media/icons/whatsapp.webp",
-    "categories": ["all", "message", "social"],
-    "error": true
-  },
+
   {
     "name": "Wattpad",
     "link": "https://wattpad.com/",
@@ -346,33 +341,14 @@
     "image": "/assets/media/icons/shuttle.webp",
     "categories": ["all", "emu", "android"]
   },
-  {
-    "name": "Vercel",
-    "link": "https://vercel.com",
-    "image": "/assets/media/icons/vercel.webp",
-    "categories": ["all", "tool"]
-  },
-  {
-    "name": "Amazon Luna",
-    "link": "https://luna.amazon.com/",
-    "image": "/assets/media/icons/amazon-luna.webp",
-    "categories": ["all", "game", "cloud"],
-    "blank": "true"
-  },
+  
   {
     "name": "Google Gemini",
     "link": "https://gemini.google.com",
     "image": "/assets/media/icons/gemini.webp",
     "categories": ["all", "ai"]
   },
-  {
-    "name": "Google Mail (Gmail)",
-    "link": "https://mail.google.com/",
-    "image": "/assets/media/icons/gmail.webp",
-    "categories": ["all", "mail"],
-    "blank": "true",
-    "partial": "true"
-  },
+
   {
     "name": "Outlook",
     "link": "https://outlook.live.com/",
@@ -383,9 +359,9 @@
   },
   {
     "name": "Snapchat",
+    "link": "https://snapchat.com",
     "image": "/assets/media/icons/snap.webp",
-    "categories": ["all", "social", "message", "media"],
-    "error": "true"
+    "categories": ["all", "social", "message", "media"]
   },
   {
     "name": "W3Schools",
@@ -401,14 +377,14 @@
   },
   {
     "name": "Instagram",
+    "link": "https://instagram.com",
     "image": "/assets/media/icons/insta.webp",
-    "categories": ["all", "social", "message", "media"],
-    "error": "true"
+    "categories": ["all", "social", "message", "media"]
   },
   {
     "name": "Proton Mail",
+    "link": "https://proton.me",
     "image": "/assets/media/icons/proton.webp",
-    "categories": ["all"],
-    "error": "true"
+    "categories": ["all"]
   }
 ]
