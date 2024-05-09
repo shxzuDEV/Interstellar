@@ -316,8 +316,8 @@
     "categories": ["all", "social"]
   },
   {
-    "name": "ChatGPT Clone",
-    "link": "https://chat.shuttleai.app/",
+    "name": "ChatGPT",
+    "link": "https://chat.openai.com/",
     "image": "/assets/media/icons/chatgpt.webp",
     "categories": ["all", "AI"]
   },
